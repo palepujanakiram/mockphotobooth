@@ -1,0 +1,313 @@
+Analyzing mockphotobooth...                                     
+
+   info • Constructors for public widgets should have a named 'key' parameter • lib/main.dart:19:7 • use_key_in_widget_constructors
+   info • Use 'const' with the constructor to improve performance • lib/main.dart:28:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/main.dart:45:19 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/home_screen.dart:13:7 • use_key_in_widget_constructors
+   info • Invalid use of a private type in a public API • lib/screens/home_screen.dart:15:3 • library_private_types_in_public_api
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:49:7 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:107:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:112:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:114:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:116:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:119:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:124:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:127:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:130:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:131:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:134:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:137:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:140:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:141:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:145:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:158:20 • prefer_const_constructors
+   info • Don't use 'BuildContext's across async gaps • lib/screens/home_screen.dart:175:29 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:178:20 • prefer_const_constructors
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:190:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:210:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:226:7 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:231:17 • prefer_const_constructors
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:236:9 • avoid_print
+   info • Don't use 'BuildContext's across async gaps • lib/screens/home_screen.dart:240:11 • use_build_context_synchronously
+   info • Don't invoke 'print' in production code • lib/screens/home_screen.dart:254:7 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:268:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:280:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:281:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:282:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:284:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:286:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:291:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:293:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:302:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:327:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:328:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:331:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:333:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:334:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:336:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:348:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:349:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:350:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:352:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:354:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:355:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:358:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:360:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:363:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:364:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:366:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:379:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:380:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:381:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:383:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:385:13 • prefer_const_constructors
+   info • Unnecessary use of string interpolation • lib/screens/home_screen.dart:387:15 • unnecessary_string_interpolations
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:388:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:404:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:405:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:417:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:424:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:425:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:426:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:428:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:433:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:435:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:440:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:442:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:449:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:450:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:452:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:454:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:456:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:457:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:458:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:460:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:473:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:481:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:483:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:491:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:521:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:522:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:523:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:528:23 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/photo_preview_screen.dart:15:3 • use_key_in_widget_constructors
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/screens/photo_preview_screen.dart:15:3 • prefer_const_constructors_in_immutables
+   info • Invalid use of a private type in a public API • lib/screens/photo_preview_screen.dart:21:3 • library_private_types_in_public_api
+   info • Don't invoke 'print' in production code • lib/screens/photo_preview_screen.dart:78:7 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:86:32 • prefer_const_constructors
+   info • Don't use 'BuildContext's across async gaps • lib/screens/photo_preview_screen.dart:91:28 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:97:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:101:28 • prefer_const_constructors
+   info • Don't use 'BuildContext's across async gaps • lib/screens/photo_preview_screen.dart:102:21 • use_build_context_synchronously
+   info • Don't invoke 'print' in production code • lib/screens/photo_preview_screen.dart:106:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/photo_preview_screen.dart:157:5 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:204:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:209:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:221:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:241:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:243:20 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/photo_preview_screen.dart:245:25 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:246:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:247:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:248:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:250:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:259:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:263:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:264:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:268:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:273:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:281:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:289:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:290:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:290:50 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:292:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:293:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:298:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:305:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:308:36 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:313:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:316:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/photo_preview_screen.dart:320:32 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/print_config_screen.dart:8:3 • use_key_in_widget_constructors
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/screens/print_config_screen.dart:8:3 • prefer_const_constructors_in_immutables
+   info • Invalid use of a private type in a public API • lib/screens/print_config_screen.dart:11:3 • library_private_types_in_public_api
+   info • Don't use 'BuildContext's across async gaps • lib/screens/print_config_screen.dart:26:26 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:27:7 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:28:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:30:19 • prefer_const_constructors
+   info • Don't use 'BuildContext's across async gaps • lib/screens/print_config_screen.dart:33:19 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:40:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:43:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:58:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:67:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:76:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:85:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:94:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:103:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:108:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:112:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:115:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:116:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:116:51 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:119:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:124:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:132:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:139:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:142:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:149:11 • prefer_const_constructors
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:163:11 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:164:11 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:180:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:182:21 • prefer_const_constructors
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:185:11 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:186:11 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:200:20 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/print_config_screen.dart:202:25 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:203:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:204:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:205:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:216:9 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:219:20 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/print_config_screen.dart:221:25 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:222:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:223:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:224:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:246:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:248:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:249:21 • prefer_const_constructors
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:251:11 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:252:11 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:268:11 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/print_config_screen.dart:269:11 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:282:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:294:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:299:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:313:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:314:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:323:11 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/print_config_screen.dart:324:23 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:325:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:326:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:327:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:329:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:337:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:344:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:345:11 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/print_config_screen.dart:346:23 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:347:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:348:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:349:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:351:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:362:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/print_config_screen.dart:369:22 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/quick_print_settings.dart:8:3 • use_key_in_widget_constructors
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/screens/quick_print_settings.dart:8:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:16:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:21:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:23:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:25:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:30:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:32:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:33:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:49:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:54:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:54:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:55:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:57:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:64:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:67:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:75:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:80:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:82:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/quick_print_settings.dart:83:27 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/settings_screen.dart:9:7 • use_key_in_widget_constructors
+   info • Invalid use of a private type in a public API • lib/screens/settings_screen.dart:11:3 • library_private_types_in_public_api
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:77:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:82:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:85:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:87:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:90:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:93:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:95:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:104:20 • prefer_const_constructors
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:113:29 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:116:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:144:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:147:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:148:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/settings_screen.dart:150:27 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:151:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:152:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:153:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:163:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:164:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:165:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:169:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:173:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:178:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:184:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:185:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:186:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:191:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:196:34 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/settings_screen.dart:198:37 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:199:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:200:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:201:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:207:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:208:40 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:208:63 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:216:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:223:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:224:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:226:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:240:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:241:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:245:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:246:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:250:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:251:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:266:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:268:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:269:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:270:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:272:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:278:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:279:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:280:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:281:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/settings_screen.dart:282:31 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:283:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:285:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:287:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:288:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:290:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:292:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:293:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:295:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:307:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:312:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:315:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:317:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:319:19 • prefer_const_constructors
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:13:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:17:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:21:5 • avoid_print
+   info • The constant name 'BATCH_SIZE' isn't a lowerCamelCase identifier • lib/services/device_scanner_service.dart:24:15 • constant_identifier_names
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:40:11 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:46:5 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/services/device_scanner_service.dart:55:18 • prefer_const_constructors
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:76:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:94:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:98:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:101:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/device_scanner_service.dart:118:7 • avoid_print
+   info • The constant name 'CAMERAS_KEY' isn't a lowerCamelCase identifier • lib/services/storage_service.dart:8:23 • constant_identifier_names
+   info • The constant name 'PRINTERS_KEY' isn't a lowerCamelCase identifier • lib/services/storage_service.dart:9:23 • constant_identifier_names
+   info • The constant name 'SELECTED_CAMERA_KEY' isn't a lowerCamelCase identifier • lib/services/storage_service.dart:10:23 • constant_identifier_names
+   info • The constant name 'PRINT_CONFIG_KEY' isn't a lowerCamelCase identifier • lib/services/storage_service.dart:11:23 • constant_identifier_names
+   info • Don't invoke 'print' in production code • lib/services/storage_service.dart:19:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/storage_service.dart:45:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/storage_service.dart:76:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/storage_service.dart:114:5 • avoid_print
+

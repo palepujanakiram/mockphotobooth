@@ -45,5 +45,21 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access for photo booth</string>
+
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Network access to discover camera and printer</string>
+
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_ipp._tcp</string>
+		<string>_ipps._tcp</string>
+	</array>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Save photos to library</string>
+
 </dict>
 </plist>
